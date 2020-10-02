@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series on Ruchi Bagwe</title>
+    <link>https://ruchbagwe.github.io/portfolio/tags/time-series/</link>
+    <description>Recent content in Time Series on Ruchi Bagwe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ruchbagwe.github.io/portfolio/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine anomaly detection for Multivariate Time Series</title>
+      <link>https://ruchbagwe.github.io/portfolio/projects/creations/timeseries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchbagwe.github.io/portfolio/projects/creations/timeseries/</guid>
+      <description>In this project, I have used a technique to detect anomaly in a complex system made by multiple correlated series. I have used the LSTM model to extract features from the correlated series of sensor data. The sensor data is first denoised, and then the relationship among the features is learned with dimensionality reduction. The learned relationship is them used to build an automated mechanism to alert the times of fault and failure in the machine.</description>
+    </item>
+    
+  </channel>
+</rss>
