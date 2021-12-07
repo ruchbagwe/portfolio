@@ -12,6 +12,33 @@
     
     
     <item>
+      <title>Natural Language Controlled Real-Time Object Recognition Framework for Household Robot</title>
+      <link>https://ruchbagwe.github.io/portfolio/publications/nlp/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchbagwe.github.io/portfolio/publications/nlp/</guid>
+      <description>This paper is published in the 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC)This paper describes an ongoing project that aims to provide people with physical disabilities a method to control a robot arm using voice commands.The goal is to enable the user to control the system using natural language, i.e., without learning a special robot control vocabulary. The work describes the design and evaluation of a real-time framework that combines speech recognition, camera-based object detection, and an inference module that matches the potentially ambiguous results of speech recognition with object detection outputs to generate a unique control input for a computer vision-based robot arm.</description>
+    </item>
+    
+    <item>
+      <title>Cortically Coupled Generative Adversarial Network for Target Image Retrieval in Rapid Image Search</title>
+      <link>https://ruchbagwe.github.io/portfolio/publications/gan/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchbagwe.github.io/portfolio/publications/gan/</guid>
+      <description>This paper is published in the 2020 IEEE Second International Conference on Cognitive Machine Intelligence (CogMI). In this paper, the focus is on developing the system that can relate a brain state to target identification and analysis in an RSVP. In this research, the P300 event occurred due to the shift in attention is analyzed and captured using the electroencephalogram (EEG). A model called Cortically-Coupled Generative Adversarial Network is proposed using this analysis.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Numerical Question Answering on Table Using BERT-GNN</title>
+      <link>https://ruchbagwe.github.io/portfolio/publications/bert/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruchbagwe.github.io/portfolio/publications/bert/</guid>
+      <description>This paper is published in the 2020 11th IEEE Annual Ubiquitous Computing, Electronics &amp;amp; Mobile Communication Conference (UEMCON).In this paper, a framework is proposed to answer questions on the table with numerical reasoning.This framework uses a context-snapshot mechanism to filter irrelevant table rows before tokenizing the table content. The filtered context and tokenized question are converted into vector representation using a pre-trained BERT model. This proposed model finds the correlation between the tokenized context-snapshot and numbers in question using graph neural networks.</description>
+    </item>
+    
+    <item>
       <title>Automated Radar Signal Analysis Based on Deep Learning</title>
       <link>https://ruchbagwe.github.io/portfolio/publications/radarsignal/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
